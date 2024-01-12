@@ -28,7 +28,7 @@ export function Hero() {
         for small businesses.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-           Most E-Commerce platforms are expensive, and hard to use. We make getting digital easy, at a price you can applaud.
+           Most E-Commerce platforms are expensive, and hard to use. We make going digital easy, at a price you can applaud.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Get 6 months free</Button>

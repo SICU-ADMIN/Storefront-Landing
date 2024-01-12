@@ -6,11 +6,11 @@ import { type Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - TaxPal',
-    default: 'TaxPal - E-Commerce made simple for small businesses',
+    template: '%s - StorefrontICU',
+    default: 'StorefrontICU - E-Commerce made simple for small businesses',
   },
   description:
-    'Most E-Commerce platforms are expensive, and hard to use. We make getting digital easy, at a price you can applaud.',
+    'Most E-Commerce platforms are expensive, and hard to use. We make becoming digital easy, at a price you can applaud.',
 }
 
 const inter = Inter({
