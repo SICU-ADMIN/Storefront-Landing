@@ -7,10 +7,10 @@ import { type Metadata } from 'next'
 export const metadata: Metadata = {
   title: {
     template: '%s - TaxPal',
-    default: 'TaxPal - Accounting made simple for small businesses',
+    default: 'TaxPal - E-Commerce made simple for small businesses',
   },
   description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+    'Most E-Commerce platforms are expensive, and hard to use. We make getting digital easy, at a price you can applaud.',
 }
 
 const inter = Inter({

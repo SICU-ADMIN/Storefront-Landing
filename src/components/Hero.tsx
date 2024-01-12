@@ -13,7 +13,7 @@ export function Hero() {
   return (
     <Container className="pb-16 pt-20 text-center lg:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
-        Accounting{' '}
+        E-Commerce{' '}
         <span className="relative whitespace-nowrap text-blue-600">
           <svg
             aria-hidden="true"
@@ -28,8 +28,7 @@ export function Hero() {
         for small businesses.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-        Most bookkeeping software is accurate, but hard to use. We make the
-        opposite trade-off, and hope you don’t get audited.
+           Most E-Commerce platforms are expensive, and hard to use. We make getting digital easy, at a price you can applaud.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Get 6 months free</Button>
